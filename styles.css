@@ -1,0 +1,56 @@
+body {
+    align-items: center;
+}
+
+.main-logo {
+    margin-left: 3rem;
+}
+.intro {
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+
+.welcome-text {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+}
+
+.img-intro {
+    position: relative;
+    left: 20rem;
+    bottom: 10rem;
+}
+.img-ipad {
+    margin-top: 3rem;
+}
+
+.btn {
+    background: #FBE087;
+    background-image: -webkit-linear-gradient(top, #FBE087, #ffc400);
+    background-image: -moz-linear-gradient(top, #FBE087, #ffc400);
+    background-image: -ms-linear-gradient(top, #FBE087, #ffc400);
+    background-image: -o-linear-gradient(top, #FBE087, #ffc400);
+    background-image: linear-gradient(to bottom, #FBE087, #ffc400);
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+    border-radius: 30px;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #ffd34f;
+    background-image: -webkit-linear-gradient(top, #ffd34f, #ffda69);
+    background-image: -moz-linear-gradient(top, #ffd34f, #ffda69);
+    background-image: -ms-linear-gradient(top, #ffd34f, #ffda69);
+    background-image: -o-linear-gradient(top, #ffd34f, #ffda69);
+    background-image: linear-gradient(to bottom, #ffd34f, #ffda69);
+    text-decoration: none;
+}
+.btn-login{
+    position: relative;
+    left: 40rem;
+}
